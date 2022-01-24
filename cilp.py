@@ -16,7 +16,8 @@ def downloadapp(appname):
     url = "https://code-it-ytb.github.io/download_app/" + appname
     webbrowser.open(url)
 
-print("Language de programmation Code It")
+print("Langage de programmation de Code It (CILP)")
+print("Tapez 'help' pour de l'aide")
 
 running = True
 
