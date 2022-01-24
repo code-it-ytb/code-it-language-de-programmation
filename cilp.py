@@ -3,10 +3,10 @@ import getpass
 import webbrowser
 
 def subscribe():
-    webbrowser.open("")
+    webbrowser.open("https://www.youtube.com/channel/UCnJYex8gca2Q6lVQAjVOLNg/?sub_confirmation=1")
 
 def watchlastestvideo():
-    webbrowser.open("bit.ly/code-it-lastest-video")
+    webbrowser.open("https://code-it-ytb.github.io/shorten_urls/lastest_video/")
 
 def openprojecturl(projectname):
     url = "https://github.com/code-it-ytb/" + projectname + "/archive/refs/heads/main.zip"
